@@ -21,4 +21,4 @@
 
 ## GIF
 
-<img src="screen.gif">
+<img src="./frontend/screen.gif">
